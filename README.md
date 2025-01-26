@@ -1,7 +1,14 @@
 # AwesomeFinanceITA
 Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link NON sono inseriti in ordine specifico o per importanza.
 
-# Tools 🛠️
+## Indice 📝
+
+- [Tools 🛠️](#tools-%EF%B8%8F)
+- [Blog e infografiche 📃](#blog-e-infografiche-)
+- [Libri 📚](#libri-)
+- [Multimedia 🎙️](#multimedia-%EF%B8%8F)
+
+## Tools 🛠️
 
 - [justETF](https://www.justetf.com/it/)
 - [Investopedia](https://www.investopedia.com/)
@@ -16,7 +23,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [Curvo](https://curvo.eu/it)
 - [Ghostfolio](https://ghostfol.io)
 
-# Blog e infografiche 📃
+## Blog e infografiche 📃
 
 - [FinanzaOnline](https://www.finanzaonline.com/)
 - [Banker on Wheels](https://www.bankeronwheels.com/)
@@ -28,7 +35,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [I Soldi degli altri](https://isoldideglialtri.com/)
 - [Rational Reminder](https://rationalreminder.ca/)
 
-# Libri 📚
+## Libri 📚
 
 - Instant Finance
 - I 4 pilastri dell’investimento
@@ -38,7 +45,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - Il Cigno nero: Come l'improbabile governa la nostra vita
 - La psicologia dei soldi
 
-# Multimedia 🎙️
+## Multimedia 🎙️
 
 - [Paolo Coletti](https://www.youtube.com/@PaoloColetti)
 - [Mr. RIP](https://www.youtube.com/@mr_rip)
